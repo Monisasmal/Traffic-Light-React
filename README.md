@@ -56,3 +56,19 @@ The application automatically cycles through traffic light states in a fixed seq
 ## Preview
 <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/2e9ab42c-49f8-48be-a357-7c7584ece73d" />
 
+---
+
+## 🙋‍♀️ Author
+
+Manaswini Sasmal
+
+📲 - 6370094643
+ 
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
