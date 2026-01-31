@@ -39,3 +39,20 @@ The application automatically cycles through traffic light states in a fixed seq
 - **CSS3**
 
 ---
+
+⚙️ How It Works (Interview Ready)
+
+- The app maintains the current light state using React state
+- A timer (setTimeout / setInterval) controls when the light changes
+- Lights switch in this order:
+  -  🔴 Red
+  -  🟡 Yellow
+  -  🟢 Green
+- Conditional rendering updates the UI based on the current state
+- The cycle repeats continuously
+
+---
+
+## Preview
+<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/2e9ab42c-49f8-48be-a357-7c7584ece73d" />
+
